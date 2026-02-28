@@ -1,3 +1,4 @@
+Day1:
 To setup the environment , it has been several environmental setups as follows 
   1) Maven installation 
   2) Maven path setup in environment variables 
@@ -5,5 +6,8 @@ To setup the environment , it has been several environmental setups as follows
   4) Java and jdk packages set up in environment 
   5) Mysql installation for database connectivity 
 
-
+Day2:
+ 1) Added update button in the view complaint page
+ 2) Added UpdateStatusServlet.java
+ 3) After adding update button, the viewcomplaint.jsp is changed
 
