@@ -1,6 +1,7 @@
 com\organization\controller\RaiseComplaintServlet.class
 com\organization\controller\TestServlet.class
 com\organization\util\DBUtil.class
+com\organization\controller\ViewComplaintsServlet.class
 com\organization\controller\DBTestServlet.class
 com\organization\controller\LoginServlet.class
 com\organization\controller\UpdateStatusServlet.class

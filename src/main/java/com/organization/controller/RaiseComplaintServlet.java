@@ -32,7 +32,7 @@ public class RaiseComplaintServlet extends HttpServlet {
                 return;
             }
             
-            String sql = "INSERT INTO complaints (username, title, description) VALUES (?, ?, ?)";
+            String sql = "INSERT INTO complaints (employee_id, title, description, status) VALUES (?, ?, ?, ?)";
             PreparedStatement ps = con.prepareStatement(sql);
 
             ps.setString(1, username);

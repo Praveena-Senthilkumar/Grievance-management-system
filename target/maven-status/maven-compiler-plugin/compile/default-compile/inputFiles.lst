@@ -2,5 +2,6 @@ D:\JavaProjects\grievance-management-system\src\main\java\com\organization\contr
 D:\JavaProjects\grievance-management-system\src\main\java\com\organization\controller\RaiseComplaintServlet.java
 D:\JavaProjects\grievance-management-system\src\main\java\com\organization\controller\TestServlet.java
 D:\JavaProjects\grievance-management-system\src\main\java\com\organization\controller\UpdateStatusServlet.java
+D:\JavaProjects\grievance-management-system\src\main\java\com\organization\controller\ViewComplaintsServlet.java
 D:\JavaProjects\grievance-management-system\src\main\java\com\organization\util\DBUtil.java
 D:\JavaProjects\grievance-management-system\src\main\java\com\organization\controller\DBTestServlet.java
