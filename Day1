@@ -1,0 +1,9 @@
+To setup the environment , it has been several environmental setups as follows 
+  1) Maven installation 
+  2) Maven path setup in environment variables 
+  3) Apache tomcat for localhost deployment 
+  4) Java and jdk packages set up in environment 
+  5) Mysql installation for database connectivity 
+
+
+
